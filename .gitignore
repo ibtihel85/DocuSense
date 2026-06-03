@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Data (large files)
+data/chroma/
+data/uploads/
+data/logs/
+data/bm25_index.pkl
+
+# Keep sample data
+!data/sample_docs/
+!data/test_queries/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
