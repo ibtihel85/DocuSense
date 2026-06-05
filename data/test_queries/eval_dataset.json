@@ -1,0 +1,53 @@
+[
+  {
+    "query": "What are the termination conditions in this agreement?",
+    "expected_intent": "single_document_qa",
+    "reference_answer": "The contract can be terminated by either party with 30 days written notice.",
+    "tags": ["termination", "contract"]
+  },
+  {
+    "query": "Extract all parties and their roles from this contract",
+    "expected_intent": "structured_extraction",
+    "tags": ["extraction", "parties"]
+  },
+  {
+    "query": "Does this data processing agreement comply with GDPR Article 28?",
+    "expected_intent": "compliance_check",
+    "tags": ["gdpr", "compliance", "dpa"]
+  },
+  {
+    "query": "What are the payment terms and due dates?",
+    "expected_intent": "single_document_qa",
+    "tags": ["payment", "dates"]
+  },
+  {
+    "query": "Which contracts mention liability caps exceeding 100,000 euros?",
+    "expected_intent": "multi_document_qa",
+    "tags": ["liability", "monetary", "multi-doc"]
+  },
+  {
+    "query": "Is there a data transfer mechanism for processing personal data outside the EU?",
+    "expected_intent": "compliance_check",
+    "tags": ["gdpr", "data-transfer"]
+  },
+  {
+    "query": "Extract all deadlines and key dates from the procurement document",
+    "expected_intent": "structured_extraction",
+    "tags": ["extraction", "dates", "procurement"]
+  },
+  {
+    "query": "What obligations does the service provider have under this agreement?",
+    "expected_intent": "multi_document_qa",
+    "tags": ["obligations", "service-provider"]
+  },
+  {
+    "query": "Check EU AI Act compliance for the automated decision-making system",
+    "expected_intent": "compliance_check",
+    "tags": ["eu-ai-act", "compliance"]
+  },
+  {
+    "query": "What is the governing law and jurisdiction for disputes?",
+    "expected_intent": "single_document_qa",
+    "tags": ["governing-law", "jurisdiction"]
+  }
+]

@@ -1,0 +1,58 @@
+DATA PROCESSING AGREEMENT (DPA)
+Pursuant to Article 28 GDPR
+
+This Data Processing Agreement is concluded between:
+
+CONTROLLER: DataCorp AG, Bahnhofstrasse 10, 8001 Zurich ("Controller")
+PROCESSOR: TechSolutions GmbH, Musterstraße 42, 80331 Munich ("Processor")
+
+1. SUBJECT MATTER AND DURATION
+The Processor processes personal data on behalf of the Controller for the purpose
+of providing software services as defined in the Service Agreement dated January 1, 2024.
+Duration of processing: same as the Service Agreement.
+
+2. NATURE AND PURPOSE OF PROCESSING
+- Types of data: Contact information, usage logs, authentication data
+- Categories of data subjects: Employees and customers of the Controller
+- Purpose: Software service delivery, support, and maintenance
+
+3. OBLIGATIONS OF THE PROCESSOR (Art. 28 GDPR)
+3.1 The Processor shall process personal data only on documented instructions
+from the Controller.
+3.2 The Processor ensures that persons authorised to process personal data
+have committed to confidentiality.
+3.3 The Processor implements appropriate technical and organisational measures
+(Art. 32 GDPR):
+  - AES-256 encryption at rest
+  - TLS 1.3 for data in transit
+  - Role-based access control
+  - Regular penetration testing
+  - ISO 27001 certification
+
+4. SUB-PROCESSORS
+The Processor shall not engage sub-processors without prior written authorisation
+from the Controller. Current approved sub-processors are listed in Annex I.
+
+5. DATA SUBJECT RIGHTS
+The Processor shall assist the Controller in fulfilling obligations regarding
+data subject rights under Chapter III GDPR (access, rectification, erasure,
+portability, restriction, objection).
+
+6. DATA BREACH NOTIFICATION
+The Processor shall notify the Controller without undue delay, and no later than
+24 hours after becoming aware of a personal data breach.
+
+7. DATA TRANSFERS
+Personal data shall not be transferred outside the European Economic Area without
+prior written consent of the Controller and appropriate transfer mechanisms
+pursuant to Chapter V GDPR (Standard Contractual Clauses / adequacy decision).
+
+8. DELETION AND RETURN
+Upon termination of the DPA, the Processor shall delete or return all personal
+data as instructed by the Controller within 30 days.
+
+9. AUDIT RIGHTS
+The Controller has the right to conduct audits or inspections to verify compliance
+with this DPA. The Processor shall provide all necessary information.
+
+Signed: January 1, 2024

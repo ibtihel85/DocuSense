@@ -1,0 +1,64 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2024, between:
+
+PROVIDER: TechSolutions GmbH, a limited liability company incorporated under German law,
+with registered office at Musterstraße 42, 80331 Munich, Germany
+("Service Provider")
+
+CLIENT: DataCorp AG, incorporated under Swiss law, Bahnhofstrasse 10, 8001 Zurich,
+Switzerland ("Client")
+
+1. SERVICES
+The Service Provider agrees to provide software development and consulting services
+as described in Schedule A attached hereto ("Services").
+
+2. TERM
+This Agreement shall commence on January 1, 2024 and continue for a period of
+twelve (12) months, unless earlier terminated in accordance with Section 8.
+
+3. PAYMENT TERMS
+3.1 The Client shall pay the Service Provider a monthly fee of EUR 15,000 (fifteen thousand euros).
+3.2 Invoices are due within 30 days of receipt.
+3.3 Late payments accrue interest at 5% per annum.
+3.4 Total contract value: EUR 180,000 (one hundred and eighty thousand euros).
+
+4. DATA PROCESSING
+4.1 The Service Provider may process personal data on behalf of the Client
+as a data processor within the meaning of Article 4(8) GDPR.
+4.2 Processing shall occur only on documented instructions from the Client (controller).
+4.3 The Service Provider implements appropriate technical and organisational measures
+pursuant to Article 32 GDPR, including encryption of data at rest and in transit,
+access control mechanisms, and regular security audits.
+4.4 Sub-processors may only be engaged with prior written consent of the Client.
+
+5. LIABILITY
+5.1 Each party's aggregate liability under this Agreement shall not exceed
+EUR 500,000 (five hundred thousand euros).
+5.2 Neither party shall be liable for indirect or consequential damages.
+
+6. CONFIDENTIALITY
+Both parties agree to keep confidential all non-public information received from
+the other party and not to disclose such information to third parties.
+
+7. INTELLECTUAL PROPERTY
+All work product created by the Service Provider under this Agreement shall be
+the exclusive property of the Client upon full payment.
+
+8. TERMINATION
+8.1 Either party may terminate this Agreement for convenience by giving
+thirty (30) days written notice to the other party.
+8.2 Either party may terminate immediately for material breach that remains
+uncured after 14 days written notice.
+
+9. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of
+Germany. Disputes shall be submitted to the exclusive jurisdiction of the courts
+of Munich, Germany.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first
+written above.
+
+TechSolutions GmbH                    DataCorp AG
+By: Max Mustermann                    By: Anna Smith
+Title: Managing Director              Title: Chief Procurement Officer
