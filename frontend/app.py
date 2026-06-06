@@ -4,7 +4,9 @@ frontend/app.py
 DocuSense Streamlit UI — professional document intelligence interface.
 Connects to the FastAPI backend via HTTP.
 """
+
 from __future__ import annotations
+import os
 import json
 import time
 import httpx
@@ -19,7 +21,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-API_BASE = "http://localhost:8000/api/v1"
+API_BASE = os.getenv("API_BASE_URL", "http://localhost:8000/api/v1")
 
 # ── Custom CSS ────────────────────────────────────────────────────────────────
 st.markdown("""

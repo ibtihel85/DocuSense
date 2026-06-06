@@ -45,7 +45,7 @@ def setup_logging(log_level: str = "INFO", log_format: str = "console", log_file
         processors=processors,
         wrapper_class=structlog.make_filtering_bound_logger(logging.getLevelName(log_level)),
         context_class=dict,
-        logger_factory=structlog.PrintLoggerFactory(),
+        logger_factory=structlog.stdlib.LoggerFactory(),  # ← stdlib, has .name
         cache_logger_on_first_use=True,
     )
 
